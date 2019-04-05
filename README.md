@@ -2,7 +2,7 @@
 
 Create & manipulate 3D shapes by directly writing in-memory voxel represenations into a STL file format.
 
-[](thats_no_moon.png)
+![stl image here...](./thats_no_moon.png)
 
 ## Add/subtract/toggle 3D spheres, and export the bitmap as an STL file.
 
